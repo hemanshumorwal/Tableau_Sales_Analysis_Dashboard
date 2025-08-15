@@ -1,5 +1,7 @@
 # 📊 Sales Analysis Dashboard
 
+[![Sales Analysis Dashboard](dshbrd.png)](https://public.tableau.com/views/TableauAssignmentDONE/Salesanalysisdashboard?:language=en-US)
+
 ## 1️⃣ Project Overview
 The **Sales Analysis Dashboard** is an interactive business intelligence solution developed in **Tableau**, designed to evaluate sales performance across multiple dimensions.  
 This project demonstrates the practical application of **data analysis, visualization, and storytelling** to drive business decision-making.
@@ -19,7 +21,7 @@ The solution comprises:
 ---
 
 ## 3️⃣ 🚀 Live Dashboard Access
-👉 **Click the link below to view the fully interactive dashboard:**  
+👉 **Click the image above or the link below to view the interactive dashboard:**  
 🔗 [**View Sales Analysis Dashboard on Tableau Public**](https://public.tableau.com/views/TableauAssignmentDONE/Salesanalysisdashboard?:language=en-US)  
 
 ---
