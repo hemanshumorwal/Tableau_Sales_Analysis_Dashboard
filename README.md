@@ -1,85 +1,82 @@
-📊 Sales Analysis Dashboard
-1️⃣ Project Overview
-The Sales Analysis Dashboard is an interactive business intelligence solution developed in Tableau, designed to evaluate sales performance across multiple dimensions.
-This project demonstrates the practical application of data analysis, visualization, and storytelling to drive business decision-making.
+# 📊 Sales Analysis Dashboard
 
-The solution comprises:
+## 1️⃣ Project Overview
+The **Sales Analysis Dashboard** is an interactive business intelligence solution developed in **Tableau**, designed to evaluate sales performance across multiple dimensions.  
+This project demonstrates the practical application of **data analysis, visualization, and storytelling** to drive business decision-making.
 
-4 interactive dashboards
+The solution comprises:  
+- **4 interactive dashboards**  
+- **22 captions** (insight annotations) for data storytelling  
 
-22 captions (insight annotations) for data storytelling
+---
 
-2️⃣ Project Objectives
-Perform comprehensive data exploration to uncover trends, patterns, and anomalies in sales data.
+## 2️⃣ Project Objectives
+- Perform **comprehensive data exploration** to uncover trends, patterns, and anomalies in sales data.
+- Create dynamic and interactive dashboards for intuitive data consumption.
+- Apply visual analytics to support strategic and operational decision-making.
+- Showcase professional expertise in data visualization, business analytics, and Tableau.
 
-Create dynamic and interactive dashboards for intuitive data consumption.
+---
 
-Apply visual analytics to support strategic and operational decision-making.
+## 3️⃣ 🚀 Live Dashboard Access
+👉 **Click the link below to view the fully interactive dashboard:**  
+🔗 [**View Sales Analysis Dashboard on Tableau Public**](https://public.tableau.com/views/TableauAssignmentDONE/Salesanalysisdashboard?:language=en-US)  
 
-Showcase professional expertise in data visualization, business analytics, and Tableau.
+---
 
-3️⃣ Live Dashboard Access
-You can explore the interactive dashboard here:
-🔗 View Sales Analysis Dashboard on Tableau Public
+## 4️⃣ Key Dashboard Components
 
-4️⃣ Key Dashboard Components
-Dashboard 1 – Sales Performance Overview
-High-level KPIs (Revenue, Profit, Sales Volume)
+### **Dashboard 1 – Sales Performance Overview**
+- High-level KPIs (Revenue, Profit, Sales Volume)
+- Monthly & yearly sales trends
+- Category-wise and subcategory performance
 
-Monthly & yearly sales trends
+### **Dashboard 2 – Regional & Category Analysis**
+- Sales breakdown by **state, region, and category**
+- Heatmaps for quick performance identification
+- Regional contribution to total revenue
 
-Category-wise and subcategory performance
+### **Dashboard 3 – Customer Insights**
+- Top-performing customers by revenue & order size
+- Segmentation of customers based on spending patterns
+- Retention & loyalty indicators
 
-Dashboard 2 – Regional & Category Analysis
-Sales breakdown by state, region, and category
+### **Dashboard 4 – Profitability & Trends**
+- Comparative analysis of profitable vs. low-performing products
+- Seasonal sales trends
+- Forecasts & performance tracking over time
 
-Heatmaps for quick performance identification
+---
 
-Regional contribution to total revenue
+## 5️⃣ Tools & Technologies
+- **Tableau Public** – Data visualization & dashboard creation
+- **Data Preparation** – Data cleaning, aggregation, and transformation
+- **Visualization Techniques** – Bar charts, line charts, heat maps, KPIs, filters, parameters
 
-Dashboard 3 – Customer Insights
-Top-performing customers by revenue & order size
+---
 
-Segmentation of customers based on spending patterns
+## 6️⃣ Key Insights Delivered
+- Identified **high-revenue regions** and their contribution to overall performance.
+- Detected **seasonality and peak sales periods** assisting in inventory planning.
+- Highlighted **low-margin products** for pricing strategy review.
+- Segmented **customers for targeted promotions** to improve retention.
 
-Retention & loyalty indicators
+---
 
-Dashboard 4 – Profitability & Trends
-Comparative analysis of profitable vs. low-performing products
+## 7️⃣ Skills & Competencies Demonstrated
+- Data Cleaning & Transformation
+- Visual Analytics & Storytelling
+- Dashboard Design & User Experience
+- Business KPI Analysis
+- Performance Monitoring & Reporting
 
-Seasonal sales trends
+---
 
-Forecasts & performance tracking over time
+## 8️⃣ Contact & Portfolio
+📧 **Email:** [morwalhemanshu@gmail.com](mailto:morwalhemanshu@gmail.com)  
+💼 **LinkedIn:** [linkedin.com/in/hemanshumorwal](https://linkedin.com/in/hemanshumorwal)  
+🐙 **GitHub:** [github.com/hemanshumorwal](https://github.com/hemanshumorwal)
 
-5️⃣ Tools & Technologies
-Tableau Public – Data visualization & dashboard creation
+---
 
-Data Preparation – Data cleaning, aggregation, and transformation
-
-Visualization Techniques – Bar charts, line charts, heat maps, KPIs, filters, parameters
-
-6️⃣ Key Insights Delivered
-Identified high-revenue regions and their contribution to overall performance.
-
-Detected seasonality and peak sales periods assisting in inventory planning.
-
-Highlighted low-margin products for pricing strategy review.
-
-Segmented customers for targeted promotions to improve retention.
-
-7️⃣ Skills & Competencies Demonstrated
-Data Cleaning & Transformation
-
-Visual Analytics & Storytelling
-
-Dashboard Design & User Experience
-
-Business KPI Analysis
-
-Performance Monitoring & Reporting
-
-8️⃣ Contact & Portfolio
-📧 Email: morwalhemanshu@gmail.com
-💼 LinkedIn: linkedin.com/in/hemanshumorwal
-🐙 GitHub: github.com/hemanshumorwal
-
+**📌 Note:** This project was developed to demonstrate competence in **business intelligence, data visualization, and Tableau dashboard design**.
